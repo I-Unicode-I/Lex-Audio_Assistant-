@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab06988f-b2c5-48cc-83dc-718487d51dd2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z2MI23rfqBph6McntmqRYdwDou" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/main.py" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Jarvis_AudioAssistant" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1240" y="310" key="FileChooserDialogImpl" timestamp="1584090276745">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="1240" y="310" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1584090276745" />
+    <state width="897" height="332" key="GridCell.Tab.0.bottom" timestamp="1584083769874">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="897" height="332" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1584083769874" />
+    <state width="897" height="332" key="GridCell.Tab.0.center" timestamp="1584083769874">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="897" height="332" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1584083769874" />
+    <state width="897" height="332" key="GridCell.Tab.0.left" timestamp="1584083769874">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="897" height="332" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1584083769874" />
+    <state width="897" height="332" key="GridCell.Tab.0.right" timestamp="1584083769874">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="897" height="332" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1584083769874" />
+    <state width="897" height="332" key="GridCell.Tab.1.bottom" timestamp="1584083769874">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="897" height="332" key="GridCell.Tab.1.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1584083769874" />
+    <state width="897" height="332" key="GridCell.Tab.1.center" timestamp="1584083769874">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="897" height="332" key="GridCell.Tab.1.center/0.30.1920.1050@0.30.1920.1050" timestamp="1584083769874" />
+    <state width="897" height="332" key="GridCell.Tab.1.left" timestamp="1584083769874">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="897" height="332" key="GridCell.Tab.1.left/0.30.1920.1050@0.30.1920.1050" timestamp="1584083769874" />
+    <state width="897" height="332" key="GridCell.Tab.1.right" timestamp="1584083769874">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="897" height="332" key="GridCell.Tab.1.right/0.30.1920.1050@0.30.1920.1050" timestamp="1584083769874" />
+    <state x="1184" y="261" width="672" height="678" key="search.everywhere.popup" timestamp="1584034842709">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="1184" y="261" width="672" height="678" key="search.everywhere.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1584034842709" />
+  </component>
+</project>
